@@ -47,13 +47,13 @@ The configuration values:
 #### Componenets 
 1. Alert - 
     * Android - AlertDialog 
-    * iOS - Alert
+    * iOS - UIAlertController
 2. Screen - 
     * Android - Activity 
-    * iOS - ViewController
+    * iOS - UIViewController
 3. Action Sheet - 
     * Android - BottomSheetDialog
-    * iOS - ActionSheet
+    * iOS - UIActionSheet
  
 
 ### Notes
